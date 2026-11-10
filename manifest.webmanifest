@@ -1,0 +1,16 @@
+{
+  "name": "Last Circle",
+  "short_name": "Last Circle",
+  "description": "Top-down battle royale with 100 levels, 3 maps and 3 heroes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#10151f",
+  "theme_color": "#10151f",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
